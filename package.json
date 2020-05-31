@@ -1,0 +1,25 @@
+{
+  "name": "bootcamp20200531",
+  "version": "1.0.0",
+  "description": "Basic json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haqnawaz99/BootCamp20200531.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "haq nawaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haqnawaz99/BootCamp20200531/issues"
+  },
+  "homepage": "https://github.com/haqnawaz99/BootCamp20200531#readme",
+  "dependencies": {
+    "surge": "^0.21.3"
+  }
+}
